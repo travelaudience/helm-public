@@ -3,11 +3,11 @@ entries:
   noderecycler:
   - apiVersion: v1
     appVersion: v3.0.0
-    created: "2020-04-07T23:57:37.217228748+02:00"
+    created: "2020-04-08T15:17:32.581906778+02:00"
     description: helper pod to cleanup preemptible instances gracefully
-    digest: fc8c1c7225bb80c7796e6768d90b92910e529b3b9a9ae00a7842aad126494395
+    digest: 4719596e3e25446bfb0bcf6238aea0bbced99124cc758d4cfdef85217cb97314
     name: noderecycler
     urls:
     - noderecycler-3.0.0.tgz
     version: 3.0.0
-generated: "2020-04-07T23:57:37.21695381+02:00"
+generated: "2020-04-08T15:17:32.581472986+02:00"
